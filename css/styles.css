@@ -1,1 +1,30 @@
-
+.note-wrapper {
+    display: flex;
+    flex-direction:row;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  
+  textarea {
+    background-color: #06b2f0; 
+  }
+  
+  button {
+    background-color: #4CAF50; 
+    color: white; 
+    border: none;
+    padding: 10px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
+  
+  #addButton {
+    background-color: #008CBA; 
+  }
+  
+  
+  .note-wrapper button {
+    background-color: #f44336; 
+  }
+  
